@@ -44,6 +44,7 @@
 #define __OPENCV_GPU_COMMON_HPP__
 
 #include <cuda_runtime.h>
+#include <cuda_fp16.h>
 #include "opencv2/core/cuda_devptrs.hpp"
 
 #ifndef CV_PI
